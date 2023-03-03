@@ -1,0 +1,45 @@
+
+.author{
+    color: red;
+    text-decoration: none;
+    border: none;
+    text-align: left;
+}
+.a1,.a2,.a3,.a4{
+    text-decoration: none;
+    border-style: solid;
+    border-color: #bdc1c6;
+    border-width: 3px;
+    padding: 12px;
+    margin-right: 60px;
+    margin-left: 65px;
+    color: #bdc1c6;
+    border-radius: 10px;
+
+}
+.a1:hover{
+    color : red;
+    background-color: #bdc1c6;
+}
+.a2:hover{
+    color : red;
+    background-color: #bdc1c6;
+
+}
+.a3:hover{
+    color : red;
+    background-color: #bdc1c6;
+
+}
+.a4:hover{
+    color : red;
+    background-color: #bdc1c6;
+
+}
+
+.i1,.i2,.i3,.i4{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
