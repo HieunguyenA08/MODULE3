@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+
+header, footer{
+    height: 80px;
+    background: red;
+}
+
+nav{
+    height: 80px;
+    background: yellow;
+}
+
+main{
+    height: 500px;
+    background: blue;
+    display: flex;
+}
+
+div{
+    flex: 70%;
+    height: 500px;
+}
+
+section{
+    height: 50%;
+    background: #6b5537;
+}
+
+article{
+    height: 50%;
+    background: #ea9b9b;
+}
+
+aside{
+    flex: 30%;
+    height: 500px;
+    background: aquamarine;
+}
